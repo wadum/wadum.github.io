@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="git.Wadum" module="play-mongojack_2.11" revision="2.3.0-SNAPSHOT" status="integration" publication="20140725164614">
+	<info organisation="git.wadum" module="play-mongojack_2.11" revision="2.3.0-SNAPSHOT" status="integration" publication="20140725182550">
 		<description>
 		play-mongojack
 		</description>
